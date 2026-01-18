@@ -23,13 +23,16 @@ Supplementary figures from the original study
 
 ## Supporting Files
 
-1. Light plants.png / Light plants.omv:
-Experimental setup diagram and editable source file
+1. Light plants.png:
+Experimental setup diagram
 
-2. Plan.docx:
+2. Light plants.omv:
+Source code file editable in Jamovi
+
+3. Plan.docx:
 Project planning document
 
-3. STAT2003_Task1_Description_2024_s1.pdf:
+4. STAT2003_Task1_Description_2024_s1.pdf:
 Assessment brief
 
 ## Applications
